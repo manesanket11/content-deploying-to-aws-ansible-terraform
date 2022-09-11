@@ -17,3 +17,4 @@ variable "region-worker" {
   type    = string
   default = "us-west-2"
 }
+
